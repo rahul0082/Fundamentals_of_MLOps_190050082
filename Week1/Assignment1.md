@@ -16,4 +16,5 @@ But we often need the output to be interpretable.
    of what extent this feature contributes to the final outcome.
  ## Part 2
  AWS Console snap:\
+ ![](images/aws_snap.png)
 
